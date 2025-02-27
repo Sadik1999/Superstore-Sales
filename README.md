@@ -22,7 +22,7 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 └── 📄 README.md  
 
 ## 📊 Insights Gained:
-✔️ Top-selling products & categories.
-✔️ Best & worst performing regions.
-✔️ Customer purchase behavior analysis.
-✔️ Business recommendations for sales growth.
+- Top-selling products & categories.
+- Best & worst performing regions.
+- Customer purchase behavior analysis.
+- Business recommendations for sales growth.
