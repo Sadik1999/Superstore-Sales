@@ -12,13 +12,13 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 
 ## Files
 📁 Superstore-Sales-Analysis  
-│── 📄 superstore_data.sql
-│── 📄 data_cleaning.sql      
-│── 📄 rfm_segmentation.sql 
-│── 📄 exploratory_analysis.sql 
-│── 📂 data  
-│   ├── Superstore_Sales_Data.csv    
-└── 📄 README.md  
+- `superstore_data.sql`
+- `data_cleaning.sql`      
+- `rfm_segmentation.sql`
+- `exploratory_analysis.sql` 
+📂 Data  
+- `Superstore_Sales_Data.csv`    
+- `README.md` 
 
 ## 📊 Insights Gained:
 - Top-selling products & categories.
