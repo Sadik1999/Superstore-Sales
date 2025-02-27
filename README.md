@@ -26,3 +26,14 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 - Best & worst performing regions.
 - Customer purchase behavior analysis.
 - Business recommendations for sales growth.
+
+📁 Superstore-Sales-Analysis  
+│── 📄 README.md  # ✅ This should be at the top  
+│── 📄 superstore_data.sql  
+│── 📄 data_cleaning.sql  
+│── 📄 rfm_segmentation.sql  
+│── 📄 exploratory_analysis.sql  
+│── 📂 data  
+│   ├── Superstore_Sales_Data.csv  
+│   ├── Cleaned_Data.csv  
+
