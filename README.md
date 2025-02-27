@@ -21,7 +21,7 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 │   ├── Cleaned_Data.csv  # Processed dataset  
 └── 📄 README.md  
 
-📊 Insights Gained:
+## 📊 Insights Gained:
 ✔️ Top-selling products & categories.
 ✔️ Best & worst performing regions.
 ✔️ Customer purchase behavior analysis.
