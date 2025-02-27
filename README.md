@@ -12,13 +12,12 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 
 ## Files
 📁 Superstore-Sales-Analysis  
-│── 📄 superstore_data.sql  # SQL script for database & table creation  
-│── 📄 data_cleaning.sql     # SQL queries for data cleaning  
-│── 📄 rfm_segmentation.sql  # Customer segmentation using RFM  
-│── 📄 exploratory_analysis.sql  # EDA and insights extraction  
+│── 📄 superstore_data.sql
+│── 📄 data_cleaning.sql      
+│── 📄 rfm_segmentation.sql 
+│── 📄 exploratory_analysis.sql 
 │── 📂 data  
-│   ├── Superstore_Sales_Data.csv  # Original dataset  
-│   ├── Cleaned_Data.csv  # Processed dataset  
+│   ├── Superstore_Sales_Data.csv    
 └── 📄 README.md  
 
 ## 📊 Insights Gained:
